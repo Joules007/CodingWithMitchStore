@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-CodingWithMitchStore.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-CodingWithMitchStore.iml" group="CodingWithMitchStore" />
       <module fileurl="file://$PROJECT_DIR$/CodingWithMitchStore.iml" filepath="$PROJECT_DIR$/CodingWithMitchStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CodingWithMitchStore-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CodingWithMitchStore-app.iml" group="CodingWithMitchStore/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
